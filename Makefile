@@ -16,4 +16,4 @@ lint:
 	pylint --disable=R,C,W1203 app.py
 
 all: install lint test
-© 2021 GitHub, Inc.
+#© 2021 GitHub, Inc.
